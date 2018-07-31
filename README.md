@@ -1,7 +1,7 @@
 newsletter-emailer
 ==================
 
-This project prepares newsletters and emails them.
+This project reads subscriptions from a table and creates CSV files to be used by the dedicated email server.
 
  
 
