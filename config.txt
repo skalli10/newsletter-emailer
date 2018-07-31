@@ -1,0 +1,30 @@
+
+# ---- DB Details ----
+    DATABASE_NAME   = db
+    DATABASE_USER   = user
+    DATABASE_PW     = Wp4ybXs1m0o=
+
+    KEY = Xu9uhq4ZkWQ=
+
+# ---- Email Details ----
+    mail.smtp.host  = smtp.mailinator.com
+    SENDER_NAME     = daemon
+    SENDER_ADDRESS  = no-reply@mailinator.com
+
+    # Separate by comma, no space
+    RECIPIENTS      = user@mailinator.com
+    SUBJECT         = Newsletter List Preparation
+
+# ---- File Details ----
+    SIMAPHORE_FILE  = indicator.txt
+    LOG_FILE        = nl.log
+
+# ---- Remote host -----
+    REMOTE_HOST_NAME    = web.mailinator.com
+    REMOTE_USER         = user
+    REMOTE_PW           = IYuaPARlFM4IC9U0GJgMdg==
+    REMOTE_BASE_DIR     = /opt/oracle/9ias/infra/Apache/Apache/htdocs
+    REMOTE_ETY_DIR      = email_app_files_et
+    REMOTE_KBT_DIR      = email_app_files_kb
+    REMOTE_TWN_DIR      = email_app_files_mt
+
